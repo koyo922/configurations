@@ -94,3 +94,4 @@ nmap ,cp :cp<cr>
 nmap ,cw :cw 10<cr> 
 
 execute pathogen#infect()
+set hlsearch
